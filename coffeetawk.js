@@ -8,4 +8,7 @@ Challenge 1:
 6. Baristas are handling both ordering and making coffee. 
 
 Challenge 2 :
-
+Determine how many counters open for oddering coffee by the waiting time.
+If waiting time is more than 5 minites, we will open a new counter and have one more staff dealing with coffee ordering.
+Also we should figure out the average ordering time.  
+By knowing the portion of regular customer/ customer who ask questions and their avergae time spent on ordering coffee.about
